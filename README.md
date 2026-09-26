@@ -1,7 +1,22 @@
+<div align="center">
+
 # GWI Materiais — Frontend
 
-Interface web do sistema de gestão de materiais e almoxarifado da **GRAMO Engenharia**.
-Aplicação SPA responsiva (desktop e mobile), instalável como PWA.
+**Interface web e mobile do sistema de almoxarifado da GRAMO Engenharia**
+
+![React](https://img.shields.io/badge/React_19-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-instalável-5A0FC8?logo=pwa&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-tempo_real-22D3A6)
+
+[**Abrir demo**](https://gwi-frontend.vercel.app) · [API (FastAPI)](https://github.com/luizfernandoantonio345-webs/gwi-materiais-backend)
+
+</div>
+
+---
+
+SPA responsiva (desktop e celular), instalável como PWA, feita para o almoxarifado e o canteiro de obra.
+O almoxarife dá baixa de material lendo o QR do crachá do colaborador direto pela câmera do celular.
 
 ## Tecnologias
 
